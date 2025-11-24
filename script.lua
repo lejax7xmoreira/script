@@ -1,1 +1,1 @@
-https://keyexs.com/lejax7xmoreira/raw
+loadstring(game:HttpGet("https://keyexs.com/lejax7xmoreira/raw"))()
